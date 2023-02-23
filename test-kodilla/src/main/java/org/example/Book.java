@@ -4,4 +4,5 @@ public class Book {
     private String s;
     private int k;
     private int k2;
+    private int k3;
 }
